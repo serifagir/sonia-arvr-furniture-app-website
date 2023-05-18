@@ -27,7 +27,7 @@ function App() {
             <div className="product-card-header">Dinner Table</div>
             <div className="product-card-subtext">4 colors available</div>
             <div className="product-card-price-button-container">
-              <a href="http://localhost:5173/productid1">
+              <a href="https://sonia-arvr-furniture-app-website.vercel.app/productid1">
                 <button className="product-card-price-button-container-button" >
                   View AR
                 </button>
